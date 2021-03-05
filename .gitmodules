@@ -1,0 +1,3 @@
+[submodule "spring-cloud-kstreams-ktables"]
+	path = spring-cloud-kstreams-ktables
+	url = https://github.com/Sathiyarajan/spring-cloud-kstreams-ktables.git
